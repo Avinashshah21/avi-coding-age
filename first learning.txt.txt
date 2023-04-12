@@ -1,1 +1,2 @@
 Hiii this is my first chapter of learning git.
+Now im gonna change in this file only for learning.
