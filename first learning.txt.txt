@@ -1,4 +1,0 @@
-Hiii this is my first chapter of learning git.
-Now im gonna change  this file only for learning.
-something i have deleted.
-here i am making my third change.
